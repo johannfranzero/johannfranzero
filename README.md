@@ -41,28 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johannfranzero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannfranzero&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johannfranzero&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johannfranzero&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johannfranzero&color=6366f1&style=flat-square&label=Profile+Views" />
 </p>
