@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Johann Franz Firmalan</h1>
-<h3 align="center">Full-Stack Developer · PWA Builder · AI Integrator</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/johannfranz.firmalan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
