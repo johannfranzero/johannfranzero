@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nextjs&perline=8" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,nodejs,python,git,vercel,clerk&perline=8" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,nodejs,php,git,vercel,clerk&perline=8" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Antigravity_IDE-AI%20Coding%20Assistant-4f46e5?style=for-the-badge&logo=googlegemini&logoColor=white" />
